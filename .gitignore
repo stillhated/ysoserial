@@ -9,9 +9,10 @@ target/
 .project
 .settings/
 
-# idea
+# idea'require_2fa'
 .idea/
 *.iml
 
 # tests
+needs testing
 pwntest
